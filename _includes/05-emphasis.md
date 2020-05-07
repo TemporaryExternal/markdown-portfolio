@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+## _this is a great way to learn_
+- don't **you** think so?
+- no one _would_ disagree
